@@ -1,4 +1,4 @@
-### Hi Roman
+### Hi there, I'm Roman
 
 <!--
 **k057yl/k057yl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
